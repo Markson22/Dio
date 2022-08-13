@@ -1,0 +1,9 @@
+Aritmética
+Os operadores aritméticos são operadores binários, ou seja, funcionam com dois operandos. Por exemplo, a expressão “a + 1” contém o operador binário “+” (mais) e os dois operandos “a” e “1”.
+
+Operação	Operador	Expressão algébrica	Expressão Java
+Adição	 +	a + 1	a +1
+Subtração	-	b -2	b -2
+Multiplicação	*	cm	c * m
+Divisão	/	d / e	d / e
+Resto	%	f mod g	f % g

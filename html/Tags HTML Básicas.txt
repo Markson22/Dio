@@ -1,0 +1,9 @@
+Tags HTML Básicas
+Tag	Descrição
+<html>	Define um documento HTML
+<body>	Define o corpo do documento
+<h1> a <h6>	Define título 1 a título 6
+<p>	Define um parágrafo
+<br>	Insere uma única quebra de linha
+<hr>	Define um filete horizontal
+<!-->	Define um comentário
